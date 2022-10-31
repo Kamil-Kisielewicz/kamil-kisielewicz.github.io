@@ -1,0 +1,36 @@
+.navbar-swizzle-container {
+    padding-top: 30px;
+    text-align: center;
+    padding-bottom: 0px;
+}
+.navbar-swizzle-icons {
+    display: inline;
+    padding-left: 0px;
+    /* align-items: center;
+    justify-content: center; */
+}
+.navbar-swizzle-icons-li {
+    display: inline;
+    margin-right: 10px;
+}
+.navbar-swizzle-image {
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+}
+#email-icon {
+    margin-right: 0px !important;
+}
+#pmf-quest-link {
+    color: grey;
+}
+.author-title {
+    color: black;
+    font-size: 18px;
+    margin-bottom: 0px !important;
+}
+.author-subtitle {
+    color: grey;
+    font-size: 12px;
+    margin-bottom: 5px !important;
+}
