@@ -1,12 +1,11 @@
 ---
-slug: web3-messaging-challenges
-title: Why web3 doesn't have p2p messaging yet
+slug: early-stage-books
+title: Book Recommendations for Early-Stage Founders
 authors: kamil
-tags: [web3, analysis]
+tags: [entrepreneurship, early stage, kamil's favorites]
 ---
 
-This is the summary of a very long blog post about how sometimes entrepreneurial advice
-expires.
+This is the summary of a very long blog post about my fav books for early-stage founders.
 
 <!--truncate-->
 

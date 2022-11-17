@@ -1,12 +1,11 @@
 ---
-slug: companies-i-admire
-title: Companies I admire
+slug: web3-messaging-challenges
+title: Why web3 doesn't have p2p messaging yet
 authors: kamil
-tags: [kamil's favorites, about kamil]
+tags: [web3, analysis]
 ---
 
-This is the summary of a very long blog post about how sometimes entrepreneurial advice
-expires.
+This is the summary of a very long blog post about the challenges of web3 messaging, and why it doesn't exist in an elegant way yet.
 
 <!--truncate-->
 

@@ -1,11 +1,11 @@
 ---
-slug: early-stage-books
-title: Book Recommendations for Early-Stage Founders
+slug: companies-i-admire
+title: Companies I admire
 authors: kamil
-tags: [entrepreneurship, early stage, kamil's favorites]
+tags: [kamil's favorites, about kamil]
 ---
 
-This is the summary of a very long blog post,
+This is the summary of a very long blog post about companies I admire.
 
 <!--truncate-->
 
